@@ -14,5 +14,5 @@ PRODUCT:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RoundRobinRule
 AA: aa
 girl:
-  name: zhangsan
-  age: 11
+  name: denggong
+  age: 123
